@@ -108,13 +108,13 @@ npm install
 ### 3. Start React server
 
 ```
-npm start
+npm run dev
 ```
 
 Frontend will start at:
 
 ```
-http://localhost:3000
+http://localhost:5173
 ```
 
 ---
@@ -144,13 +144,13 @@ Frontend:
 
 ```
 cd frontend
-npm start
+npm run start
 ```
 
 Open browser:
 
 ```
-http://localhost:3000
+http://localhost:5173
 ```
 
 ---

@@ -29,15 +29,16 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
   padding: 72px 64px;
-  background:
-    radial-gradient(
-      circle at top left,
-      rgba(255, 255, 255, 0.24),
-      transparent 22%
-    ),
-    linear-gradient(145deg, #5f63ff 0%, #2f36d8 48%, #171eaa 100%);
+  background: white;
   color: #ffffff;
+}
+
+.login-welcome-section-content {
+  padding: 48px;
+  border-radius: 10px;
+  background: linear-gradient(145deg, #1d4ed8 0%, #312e81 100%);
 }
 
 .welcome-pattern {

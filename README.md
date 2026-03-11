@@ -155,6 +155,10 @@ http://localhost:5173
 
 ---
 
+<img width="1919" height="871" alt="Screenshot 2026-03-11 123446" src="https://github.com/user-attachments/assets/0e221369-cd7e-406e-b335-5637eb107b05" />
+<img width="1919" height="868" alt="Screenshot 2026-03-11 123521" src="https://github.com/user-attachments/assets/805b9a6f-4ba1-4c0b-af9f-5af1dfea174c" />
+
 # Author
 
 Login Project using **React + Django**
+

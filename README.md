@@ -155,8 +155,9 @@ http://localhost:5173
 
 ---
 
-<img width="1919" height="848" alt="Screenshot 2026-03-11 125729" src="https://github.com/user-attachments/assets/1645f775-7e05-4be0-b11f-8a86f0a9f60f" />
-<img width="1919" height="868" alt="Screenshot 2026-03-11 123521" src="https://github.com/user-attachments/assets/805b9a6f-4ba1-4c0b-af9f-5af1dfea174c" />
+<img width="1919" height="837" alt="Screenshot 2026-03-11 130948" src="https://github.com/user-attachments/assets/42f19d93-d3a3-4b4b-8d07-cd7a177b3db3" />
+<img width="1917" height="852" alt="Screenshot 2026-03-11 130929" src="https://github.com/user-attachments/assets/27c124b3-7d2f-4018-8c98-d7a6738bd37c" />
+
 
 # Author
 

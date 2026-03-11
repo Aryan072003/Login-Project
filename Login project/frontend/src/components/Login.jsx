@@ -43,14 +43,21 @@ function Login({ onLoginSuccess }) {
   return (
     <div className="login-container">
       <div className="login-welcome-section">
-        <div className="welcome-badge">✳</div>
+       <div className="login-welcome-section-content">
+          <div className="welcome-badge">✳</div>
 
-        <div className="welcome-copy">
-          <h1 className="welcome-header">Hello JMS! 👋</h1>
-          <p className="welcome-text">
-            Helping businesses and MSMEs hire, train, and grow efficiently
-            through technology.
+          <div className="welcome-copy">
+            <h1 className="welcome-header">Hello JMS! 👋</h1>
+            <p className="welcome-text">
+              Helping businesses and MSMEs hire, train, and grow efficiently
+              through technology.
+            </p>
+          </div>
+
+          <p className="welcome-footer">
+            &copy; 2026 JMS. All rights reserved.
           </p>
+        </div>
         </div>
 
         <p className="welcome-footer">&copy; 2026 JMS. All rights reserved.</p>
@@ -107,3 +114,4 @@ function Login({ onLoginSuccess }) {
 }
 
 export default Login;
+

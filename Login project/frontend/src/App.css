@@ -348,6 +348,7 @@ body {
 @media (max-width: 960px) {
   .login-container {
     grid-template-columns: 1fr;
+    background: #ffffff;
   }
 
   .dashboard-shell {
@@ -366,6 +367,7 @@ body {
 
   .login-card {
     padding: 48px 32px 56px;
+    margin: auto;
   }
 
   .dashboard-panel {
